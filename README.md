@@ -16,3 +16,6 @@ Synthesizing natural speech from text using TTS APIs
 This project is a step toward accessible communication technology, helping users break free from speech limitations and interact naturally with the world.
 
 Technologies: Python, Muse 2, BCI, Morse Code, Google Cloud Text-to-Speech, VS Code
+
+
+Read full articele: https://medium.com/ai-mind-labs/decrypting-words-using-muse-2-c3a3da632219 
